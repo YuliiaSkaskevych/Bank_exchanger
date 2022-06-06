@@ -1,4 +1,3 @@
-
 class Currency:
 
     def __init__(self, ccy, base_ccy, buy: float, sale: float):
